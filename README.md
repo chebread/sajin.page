@@ -1,9 +1,7 @@
-# Sajinpage
-> Sajinpage (pronounced /sɑdʑin,peɪdʒ/) shares photos and provides an intuitive photo view
+# Sajinpage (사진페이지)
+Photo sharing site, Sajinpage
 
-## Website link
-[sajin.page](https://sajin.page/)
+Website link: https://sajin.page/
 
 ## License
 - [MIT LICENSE &copy; 2023 Cha Haneum](.github/LICENSE)
-- [Copyright © 2010-2023 Freepik Company S.L.](https://www.flaticon.com/)

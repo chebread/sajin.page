@@ -4,4 +4,4 @@ Photo sharing site, Sajinpage
 Website link: https://sajin.page/
 
 ## License
-- [MIT LICENSE &copy; 2023 Cha Haneum](.github/LICENSE)
+- MIT LICENSE &copy; 2023 Cha Haneum
